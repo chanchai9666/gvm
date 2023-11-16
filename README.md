@@ -1,4 +1,4 @@
-# gvm
+# gvm จัดการ version ของ golang
 
 [![Build Status](https://travis-ci.org/moovweb/gvm.svg?branch=master)](https://travis-ci.org/moovweb/gvm)
 
